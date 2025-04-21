@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pillow
+python-multipart
+torch
+diffusers
+transformers
+ultralytics
+fpdf
+smtplib
+email-validator
+authlib
+python-dotenv
