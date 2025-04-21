@@ -10,3 +10,4 @@ fpdf
 authlib
 python-dotenv
 email-validator
+itsdangerous
