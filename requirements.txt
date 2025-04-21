@@ -5,9 +5,8 @@ python-multipart
 torch
 diffusers
 transformers
-ultralytics
+ultralytics==8.0.33
 fpdf
-smtplib
-email-validator
 authlib
 python-dotenv
+email-validator
