@@ -5,7 +5,7 @@ python-multipart
 torch
 diffusers
 transformers
-ultralytics==8.0.33
+ultralytics==8.0.111
 fpdf
 authlib
 python-dotenv
